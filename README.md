@@ -7,6 +7,10 @@ The goal of this project is to classify audio signals into predefined categories
 
 The workflow includes:
 
+The dataset used for the given model is UrbanSound8K which can be downloaded for processing using the following link
+https://urbansounddataset.weebly.com/urbansound8k.html
+
+
 Exploratory Data Analysis (EDA) – Understanding dataset distribution, audio lengths, class balance, and spectrogram visualization.
 
 Preprocessing – Cleaning audio signals, handling noise, trimming silence, normalizing sample rates.
@@ -102,4 +106,4 @@ Extend to Deep Learning models (CNNs with spectrograms).
 
 Deploy as an API or Web App for real-time classification.
 
-Experiment with larger datasets (e.g., UrbanSound8K, ESC-50).
+Experiment with larger datasets (e.g. ESC-50).
