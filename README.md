@@ -66,10 +66,6 @@ tensorflow/keras (optional) – deep learning models
 
 🚀 How to Run
 
-Clone this repo:
-
-git clone https://github.com/your-username/audio-classification-ml.git
-cd audio-classification-ml
 
 
 Install dependencies:
