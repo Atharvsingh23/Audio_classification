@@ -90,7 +90,7 @@ python src/evaluate.py
 
 📊 Results
 
-Achieved XX% accuracy on validation set.
+Achieved 80.022 % accuracy on validation set.
 
 Random Forest and Gradient Boosting outperformed Logistic Regression.
 
