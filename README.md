@@ -65,7 +65,7 @@ tensorflow/keras (optional) – deep learning models
 └── README.md            # Project description (this file)  
 
 🚀 How to Run
-
+Clone this repo and follow the following steps to succesfully run this repo
 
 
 Install dependencies:
